@@ -1,2 +1,2 @@
-# ETH-Crowdfunding-Site
+# ETH-Crowdfunding-Platform
 Web3 project
